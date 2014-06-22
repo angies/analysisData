@@ -1,4 +1,4 @@
-Analysing to get tidy data
+run_analysis.R
 ==============================
 
 Scripts to analize row data to get tidy data set.
