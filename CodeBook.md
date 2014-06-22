@@ -1,7 +1,8 @@
 DATA DICTIONARY - 2014 Human Activity Recognition Using Smartphones Dataset
 V.1.1
 
-Variables
+1. Variables
+_________
 
 The used variables were described in the features_info.txt and README.txt files from sourde data. The total variables were 563: a 561-feature vector with time and frequency domain variables, an identifier of the subject who carried out the experiment, activity labels, and description activity names.
 
@@ -570,14 +571,17 @@ The used variables were described in the features_info.txt and README.txt files 
 563 activity
 564 activity.names
  
-Data
+2. Data
+__________
 
 Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
-Transformations
+3. Transformations
+___________________
+
 
 The procedure to transforms row data to tidu data set was the following: 
 
@@ -611,6 +615,7 @@ tidyData2_avg.csv-Second tidy data set with averages.
 
 
 License:
+____________
 
 Using this source dataset in publications must be acknowledged by referencing the following publication [1]
 
