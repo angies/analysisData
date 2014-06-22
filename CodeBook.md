@@ -1,4 +1,5 @@
 DATA DICTIONARY - 2014 
+=======================
 Human Activity Recognition Using Smartphones Dataset
 V.1.1
 
