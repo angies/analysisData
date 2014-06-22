@@ -1,5 +1,5 @@
-Analysis Data
-============
+Analysing to get tidy data
+==============================
 
 Scripts to analize row data to get tidy data set.
 
