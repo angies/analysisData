@@ -3,6 +3,8 @@ DATA DICTIONARY - 2014
 Human Activity Recognition Using Smartphones Dataset
 V.1.1
 
+This code book mentions the variables, the data, and transformations performed to clean up the data.
+
 1. Variables
 =============
 
@@ -15,6 +17,19 @@ The used variables were described in the features_info.txt and README.txt files 
 Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The used files to process and get tidy data set:
+
+    
+    features.txt
+    X_test.txt
+    subject_test.txt.
+    activity_labels.txt
+    y_test.txt
+    X_train.txt
+    subject_train.txt
+    y_train.txt
+
 
 
 3. Transformations
