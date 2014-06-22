@@ -5,7 +5,7 @@ V.1.1
 
 The used variables were described in the features_info.txt and README.txt files from sourde data. The total variables were 563: a 561-feature vector with time and frequency domain variables, an identifier of the subject who carried out the experiment, activity labels, and description activity names.
 
-1 tBodyAcc-mean()-X
+1. tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
 4 tBodyAcc-std()-X
