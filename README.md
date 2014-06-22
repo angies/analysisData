@@ -1,5 +1,8 @@
+Human Activity Recognition Using Smartphones Dataset
+V.1.1
+
 run_analysis.R
-==============================
+
 
 Scripts to analize row data to get tidy data set.
 
