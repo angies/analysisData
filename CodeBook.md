@@ -8,7 +8,7 @@ This code book mentions the variables, the data, and transformations performed t
 1. Variables
 =============
 
-The used variables were described in the features_info.txt and README.txt files from sourde data. The total variables were 563: a 561-feature vector with time and frequency domain variables, an identifier of the subject who carried out the experiment, activity labels, and description activity names.
+The used variables were described in the features_info.txt and README.txt files from sourde data. The total variables were 564: a 561-feature vector with time and frequency domain variables, an identifier of the subject who carried out the experiment, activity labels, and description activity names.
 
  
 2. Data
